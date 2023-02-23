@@ -1,0 +1,3 @@
+This project was an OpenGL assignment where we had to build a scene similar to the one that can be seen in the gif.
+We also had to write the shader for the spotlight and the phong shading itself.
+Controlling the camera is also possible by changing the view and projection matrices.
