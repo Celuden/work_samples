@@ -1,0 +1,2 @@
+The "Angabe.pdf" file lists what needed to be done for this assignment (in german). I have included
+the main code without the data structures that were implemented during the course. (Graph and own Dictionary)
