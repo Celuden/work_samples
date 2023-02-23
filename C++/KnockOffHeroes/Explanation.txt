@@ -1,0 +1,4 @@
+For our multiplayer game Knock-Off Heroes I implemented the software design strategy pattern for using 
+different special abilities for each character and loading them in with corresponding components.
+I also implemented a RigidBodyComponent, BoxCollisionComponent, PlayerMove and PlayerAttack component 
+for our game project.
