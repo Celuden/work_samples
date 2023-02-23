@@ -1,0 +1,13 @@
+Knastbruch / Prison Break was my first "real" Unity project with coding. The game was developed in under three
+days for a GameJam with the theme "light".
+
+AnimateRiver: A simple way to animate a Spritesheet through code.
+AudioManager: An AudioManager to play and stop sounds / background music.
+CharacterControllerPrison:  The character controller for the main character that also handles 
+                            animation, death and sounds.
+FishBehaving: Simple script to make an object move from left to right using sin.
+MoveSpotlight: Handles the movement of the spotlights from point A to B in a group of positions.
+PauseMenu: A pause menu using the Unity Engine's scene management.
+SpotlightFade:  The SpotlightFade script handles the transparency fade of every game object with the script.
+                If a game object is outside of a spotlight cone, it is not visible and the closer it is
+                to the spotlight, the more visible the game object becomes.
