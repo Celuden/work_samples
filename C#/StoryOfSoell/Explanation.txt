@@ -1,0 +1,4 @@
+Story of Söll was the first game project made in Unity and without prior coding knowledge.
+Some code here is written with the assistance of youtube tutorials, especially the CharacterController2D script.
+The ScoreManager (Singleton) and Worm scripts are used to keep track of the score and display it ingame.
+The enemy_movement and patrolowl script are used to move the enemies and make them patrol a horizontal area.
