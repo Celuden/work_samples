@@ -1,0 +1,89 @@
+none\
+cyan\~ Chapter 4: The Child of Turning Tides ~
+none\"Today I saved a child from drowning.
+none\His heart had already stopped beating.
+none\What else was I supposed to do?
+none\I had to save him!
+none\I couldn't let him die.
+none\...
+none\He now carries my blessing.
+none\May he repay me by helping humankind."
+cyan\- Diary of Athan
+volvo\...
+maro\What is wrong?
+venia\You were gone for a full week!
+venia\We were worried sick about you.
+maro\I told you last time already.
+maro\Don't bother.
+volvo\Maro.
+maro\...?
+volvo\The family has decided on an expedition date.
+volvo\It will be in three days, are you coming?
+maro\You know the answer already.
+maro\Unless we go beyond floor 70, I am not coming.
+venia\Can you join us just this one time?
+venia\We need you to cover our backs.
+venia\Volvo alone won't be able to.
+maro\I gave you my answer.
+maro\So shut up already.
+venia\...
+volvo\Be friendly with your sister.
+maro\Sister?
+maro\I don't remember having family.
+volvo\Don't say that Maro. We are all family.
+volvo\It may not be by blood, but we are connected.
+maro\Stop throwing around those superficial terms.
+maro\Stop pretending that you are family.
+maro\It sickens me just thinking about it.
+volvo\Maro!
+maro\If you want me to come with you...
+maro\... it will have to be by force.
+volvo\Take back what you just said!
+maro\Make me.
+venia\It is fine Volvo.
+venia\Let's go back.
+venia\He is beyond reasoning.
+volvo\...
+red\~ Chapter 5: Maro's Mayhem ~
+none\"Ever since the war, my grip on him loosened...
+none\I tried my best to put him on the right path.
+none\Where did I go wrong?
+none\Was it the first human he killed?
+none\The one time I didn't have him on a leash?
+none\Or was taking him in the mistake...?
+none\The other families are scared of him.
+none\Our own family is terrified around him.
+none\They all saw the beast within.
+none\...
+none\I was hoping the day would never come.
+none\Where I will have to raise my hand...
+none\... and put down my own child again."
+none\- Volvo, Head of the Viribus Family
+maro\...
+maro\Where are all the challengers?
+maro\Is there really no one out there?
+maro\No one who can take me out?
+maro\There is only a handful of people...
+maro\... that are on equal footing with me.
+maro\And two of them are supposedly dead...
+maro\Cynn and Aava.
+maro\I wonder what happened to them?
+maro\...?
+maro\...
+maro\Is that a Leviathan's call?
+maro\This gets my blood pumping!
+maro\Just in time for another round of fishing.
+maro\Till Death Do Us Part!
+none\ 
+red\Maro's Mayhem Epilogue
+red\The End.
+none\Thank you for playing.
+none\Another thank you to the alpha-play-testers.
+cyan\Ahmed Joldic, Jennifer Scharinger...
+cyan\Mara Schmid and Christoph Tupi.
+none\Especially the ones that beat unnerfed hammerhead.
+red\Yll Neziri and Sabine Steiner.
+none\You guys rock.
+none\Until the next project!
+maro\- Celuden
+none\End of Memo.

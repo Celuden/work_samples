@@ -1,0 +1,35 @@
+none\
+green\~ Chapter 3: A Pirate's Grave Beneath the Waves ~
+cyan\"That 'thing' has lost its humanity a long time ago.
+cyan\Was it the death of his loved ones?
+cyan\Was it his lone survival...?
+cyan\... or was it never human to begin with?
+cyan\All that matters now is the shell in front of me.
+red\A bloodthirsty heartless Tyrant."
+none\- Seraphina, during the Keeper's War for Lazela
+venia\...
+venia\Are you sure we shouldn't look for him?
+volvo\There is no need to worry about Maro.
+volvo\I am fully confident in his abilities.
+venia\But what if a Leviathan approaches?
+venia\He can't possibly survive that alone!
+volvo\...
+volvo\Do you know his story, Venia?
+venia\I heard from the others but never from Maro.
+volvo\Years ago the pirate crew 'Deep Dive' died at sea.
+volvo\A Leviathan attacked them on their voyage.
+venia\I heard it attacked during daytime?
+volvo\Which is uncommon for Leviathane.
+volvo\Lazelians kept saying that the crew was cursed.
+volvo\'They summoned a Leviathan during daytime'
+volvo\'They must have angered the gods'
+venia\And Maro was part of that crew?
+volvo\He still is to this date.
+volvo\The only surviving member that is.
+volvo\Which in itself is a miracle.
+venia\Why are you telling me all this?
+volvo\The reason is simple.
+volvo\I want you to understand...
+volvo\Death is the only way to calm his soul.
+venia\...
+none\End of Memo.

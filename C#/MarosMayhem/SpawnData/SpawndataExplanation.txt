@@ -1,0 +1,19 @@
+PATTERN
+enemyType / spawnPosX / spawnPosY / moveVecX / moveVecY / rotation / flipBool
+
+WINDOWSIZES
+    WINDOW X
+    Length: 600
+    windowSizeX/6 = 100
+    windowSizeX/5 = 120
+    windowSizeX/4 = 150
+    windowSizeX/3 = 200
+    windowSizeX/2 = 300
+
+    WINDOW Y
+    Length: 900
+    windowSizeY/6 = 150
+    windowSizeY/5 = 180
+    windowSizeY/4 = 225
+    windowSizeY/3 = 300
+    windowSizeY/2 = 450

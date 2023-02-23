@@ -1,0 +1,15 @@
+none\
+cyan\~ Chapter 1: Ebb and Flow of the Deep Sea ~
+none\"He who fights with monsters might take care... 
+none\...lest he thereby becomes a monster."
+none\- Friedrich Nietzsche, Beyond Good and Evil
+none\...
+venia\General Maro, where are you going again?
+maro\You know where I am going, don't bother asking.
+venia\Volvo will not let you off the hook easily this time.
+maro\The old man knows the importance of my fishing.
+maro\The sea is calling out to me.
+maro\A challenger is approaching.
+maro\I am sure he will understand.
+venia\...
+none\End of Memo.

@@ -1,0 +1,8 @@
+Maro's Mayhem is one of my first coding projects and thus the classes have a lot of hard-coded
+variables and are way too bloated in some cases.
+But the classes in this repo, especially the EnemyManager class, play around with reading in
+the enemy spawns from a text file (found in SpawnData) and thus can elegantly spawn in enemies.
+This could have been remade into random spawns with ease - but in the MMP1 there was a rather strict
+deadline which is why the enemies are always spawned in at fixed intervals and locations.
+The CutsceneManager also reads in cutscenes from the cutscenes folder and displays them ingame depending
+on which level is played / chosen.

@@ -1,0 +1,47 @@
+none\
+cyan\~ Chapter 4: The Child of Turning Tides ~
+none\"Today I saved a child from drowning.
+none\His heart had already stopped beating.
+none\What else was I supposed to do?
+none\I had to save him!
+none\I couldn't let him die.
+none\...
+none\He now carries my blessing.
+none\May he repay me by helping humankind."
+cyan\- Diary of Athan
+volvo\...
+maro\What is wrong?
+venia\You were gone for a full week!
+venia\We were worried sick about you.
+maro\I told you last time already.
+maro\Don't bother.
+volvo\Maro.
+maro\...?
+volvo\The family has decided on an expedition date.
+volvo\It will be in three days, are you coming?
+maro\You know the answer already.
+maro\Unless we go beyond floor 70, I am not coming.
+venia\Can you join us just this one time?
+venia\We need you to cover our backs.
+venia\Volvo alone won't be able to.
+maro\I gave you my answer.
+maro\So shut up already.
+venia\...
+volvo\Be friendly with your sister.
+maro\Sister?
+maro\I don't remember having family.
+volvo\Don't say that Maro. We are all family.
+volvo\It may not be by blood, but we are connected.
+maro\Stop throwing around those superficial terms.
+maro\Stop pretending that you are family.
+maro\It sickens me just thinking about it.
+volvo\Maro!
+maro\If you want me to come with you...
+maro\... it will have to be by force.
+volvo\Take back what you just said!
+maro\Make me.
+venia\It is fine Volvo.
+venia\Let's go back.
+venia\He is beyond reasoning.
+volvo\...
+none\End of Memo.
